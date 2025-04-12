@@ -1,4 +1,2 @@
 Sitemap: https://modvaults.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
+Sitemap: https://modvaults.github.io/sitemap-google.xml
